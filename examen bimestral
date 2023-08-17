@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Biografia</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/sua.css">
+</head>
+<body>
+    <h1 > BIOGRAFIA</h1>
+    <navegación >
+        <ul >
+            <li > <a  href =" #tema1 "> SOBRE MI </a> </li >
+            <li > <a  href =" #tema2 " >MIS HOBBIES </a > </li >
+            <li > <a  href =" #tema3 " >MIS DEPORTES FAVORITOS</a > </li >
+            <li > <a  href =" #tema4 " >MIS COLORES FAVORITOS</a > </li >
+            <li > <a  href =" #tema5 " >QUE QUIERO ESTUDIAR</a > </li >
+            <li > <a  href =" #tema6 " >MIS CANCIONES K-POP FAVORITAS  </a > </li >
+            <li > <a  href =" #tema7 " >MIS FOBIAS  </a > </li >
+            
+        </li> 
+    </ul >
+</nav> 
+    <principal> 
+        <id del artículo  =" tema1 " >
+            <h2 >Sobre mi </h2> 
+            <pag> 
+               soy una persona que mide 1.56 metros, de 16 años de edad, mi cabello es negro, 
+               mi color de ojos es marron oscuro,no me gusta la ropa ajustada y de colores llamativos,
+                prefiero los ascuros. 
+                <div class="card">
+                    <img class="card-img" src="img/mifotoxd.png.jpg">
+                    <div class="card text"></div>
+                </div>
+                
+            </pag>
+        </artículo >
+        <id del artículo  =" tema2 " >
+            <h2 > MIS HOBBIES</h2 >
+            <pag> 
+                JUGAR VIDEOJUEGOS
+                BAILAR
+            </p >
+            <pag> 
+                CANTAR(por diversion)
+                DORMIR
+            </p >
+        </artículo >
+        <id del artículo  =" tema3 " >
+            <h2 > MIS DEPORTES FAVORITOS </h2 >
+            <pag> 
+                FUTSAL
+                BASQUET
+            </p >
+            <pag> 
+                TENIS
+                NATACIÓN
+                VOLEY(solo un poco)
+            </p >
+        </artículo >
+        <id del artículo  =" tema4 " >
+            <h2 > MIS COLORES FAVORITOS </h2 >
+            <pag> 
+                MORADO 
+                NEGRO
+            </p >
+            <pag> 
+                BLANCO
+                AZUL MARINO
+            </p >
+        </artículo >    
+        <id del artículo  =" tema5 " >
+            <h2 >que quiero estudiar </h2 >
+            <pag>
+                yo quiero estudiar Criminología o criminalística
+            </p >
+            <pag> 
+                porque, pues obviamente hay diferencia entre esos dos:
+
+                <li> CRIMINOLOGÍA:se enfoca en entender las causas detrás del delito 
+                y buscar formas de prevenirlo desde una perspectiva social.</li>
+                <div class="card">
+                    <img class="card-img" src="img/criminologia.png">
+                    <div class="card text"></div>
+                </div>
+                <li>CRIMINALÍSTICA:se enfoca en la recopilación y análisis de pruebas
+                 para ayudar en el juicio y la condena de los delincuentes.</li>
+                 <div class="card">
+                    <img class="card-img" src="img/criminalistica.png">
+                    <div class="card text"></div>
+                </div>
+               No es muy comun, pero es una carrera que llamo mi atencion.
+            </p >
+        </artículo >    
+        <id del artículo  =" tema6 " >
+            <h2 >MIS CANCIONES K-POP FAVORITAS</h2 >
+            <pag> 
+                 grupor de k-pop
+                 ASTRO
+                 TWICE
+                 BTS
+                 ENHYPEN
+                 IVE 
+                 STRAY KIDS
+                 (G)I-DLE
+                 NMIXX
+            </p >
+            <pag> 
+                <li >ASTRO: Blue Flame, All Night, knock, waterfall, izone, after midnigth.</li >
+                <li >TWICE: Cry for me, Cheer up, TT, Set me free, Feel special.</li >
+                <li > BTS:  Louder than bombs, Buterfly, Spring day, run BTS, Fire, black swan.</li >
+                <li >ENHYPEN: Bite me, Fever, Karma, Sacrifice.</li >
+                <li >IVE: Love dive, Eleven, After like, Hypnosis.</li >
+                <li >STRAY KIDS: Toline, Thunderous, Christmas evel,Cheese, Distric 9.</li >
+                <li >(G)I-DLE: Allergy, Tomboy, My bag, Nxde</li >
+                <li > NMIXX: Love me like this. O.O, Kiss, Young, dumb, stupid</li >
+            
+            </p >     
+        <div class="card">
+            <img class="card-img" src="img/wooah.png.jpg">
+            <div class="card text">
+        
+            <img class="card-img" src="img/Tata.png.webp">
+            <img class="card-img" src="img/leebit.png">
+            </div>
+        </div>
+        </artículo >    
+        <id del artículo  =" tema7 " >
+            <h2 > MIS FOBIAS </h2 >
+            <pag> 
+                TALASOFOBIA
+                ARACNOFOBIA
+            </p >
+            <pag> 
+              -Yo le tengo miedo al mar, mas que todo cuando es de noche, 
+               es como si algo esta debajo de mi.
+               <div class="card">
+                <img class="card-img" src="img/talasofobia.png">
+                <div class="card text"></div>
+            </div>
+               -A las arañas siento q todas me pueden picar, a las chiquitas no tanto 
+               pero a las grande si, como la viuda negra.
+               <div class="card">
+                <img class="card-img" src="img/aracnofobia.png">
+                <div class="card text"></div>
+            </div>
+            </p >
+</body>
+</html>
